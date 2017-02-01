@@ -1,0 +1,69 @@
+html {
+	width: 960px;
+}
+h1{
+	display: block;
+	background-color: #4aaaa5;
+	color: #fff;
+	padding: 15px;
+	font-family: Georgia;
+	width: 300px;
+	float: left;
+}
+
+h2{
+	font-size: 18px;
+	margin-top: 10px;
+	float: right;	
+}
+
+.body {
+	clear: left;
+	background-color: #ffffff;
+	width: 650px;
+	border: 25px;
+	padding: 25px 10px 25px 10px;
+	margin: 0px 25px 0px 0px;
+	border-color: #dddddd;
+
+
+}
+
+body {
+	background: url("https://www.toptal.com/designers/subtlepatterns/patterns/asanoha-400px.png"); 
+	padding: 25px;
+}
+h3 {
+	font-size: 30px;
+}
+p {
+	font: #777777;
+	padding: 5px;
+	width: 500px;
+
+}
+
+.connect {
+	
+	width: 270px;
+	height: 200px;
+	background-color: #ffffff;
+	border: 15px;
+	padding: 5px 5px 5px 5px;
+	border-color: #dddddd;
+	margin: auto;
+	text-align: center;
+
+}
+
+h4{
+	font-size: 30px;
+}
+.aboutcontainer {
+	display: inline-flex;
+}
+.about {
+	display: -webkit-box;
+}
+
+
