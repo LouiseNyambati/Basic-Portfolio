@@ -1,2 +1,1 @@
-# Basic-Portfolio
-My basic porfolio
+# Responsive-Portfolio
